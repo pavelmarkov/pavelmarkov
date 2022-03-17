@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on english learning application
+- 🌱 I’m currently learning mobile development (kotlin)
 <!--
 **pavelmarkov/pavelmarkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,4 +14,11 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+style="display: inline-block; margin: 10px;" 
 -->
+
+### Languages and tools:
+<img alt="Vue" align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" />
+<img alt="React" align="left" width="30px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1024px-React-icon.svg.png" />
+<img alt="Next" align="left" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Nextjs-logo.svg/1200px-Nextjs-logo.svg.png" />
+<img alt="SQL" align="left" width="50px" src="https://user-images.githubusercontent.com/76155975/158779393-1945f814-e9e6-441c-af71-49f99575f663.png" />
