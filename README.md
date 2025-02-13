@@ -8,6 +8,7 @@
 - MinIO
 - Redis
 - Postgres
+- RabbitMq
 
 ## Repositories
 -  [Algorithms and data stcutrures in python](https://github.com/pavelmarkov/algorithms-and-data-structures)
