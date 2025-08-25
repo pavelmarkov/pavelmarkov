@@ -39,6 +39,6 @@
 
 #### Repositories
 
-- [Algorithms and data stcutrures in python](https://github.com/pavelmarkov/algorithms-and-data-structures)
-- [Building BitTorrent client from scratch](https://github.com/pavelmarkov/torrent-client)
-- [English learning application using Electron.js](https://github.com/pavelmarkov/english-learning-app)
+- Algorithms and data stcutrures in python ([link](https://github.com/pavelmarkov/algorithms-and-data-structures))
+- Building BitTorrent client from scratch ([link](https://github.com/pavelmarkov/torrent-client))
+- English learning application using Electron.js ([link](https://github.com/pavelmarkov/english-learning-app))
