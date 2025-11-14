@@ -4,9 +4,21 @@
 
 ### Backend
 
+#### Node.js
+
 - Node.js
 - Nest.js ([example app](https://github.com/pavelmarkov/organizer))
-- Elasticsearch
+- TypeORM / MicroORM ([example app](https://github.com/pavelmarkov/organizer))
+
+#### Python
+
+- FastAPI ([example app](https://github.com/pavelmarkov/organizer))
+- AsyncIO ([example app](https://github.com/pavelmarkov/organizer))
+- SQLAlchemy ([example app](https://github.com/pavelmarkov/organizer))
+
+#### Other
+
+- Elasticsearch / OpenSearch
 - MinIO
 - Redis
 - Postgres
