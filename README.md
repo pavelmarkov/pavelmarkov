@@ -23,6 +23,8 @@
 - Redis
 - Postgres
 - RabbitMq ([example app](https://github.com/pavelmarkov/organizer))
+- Prometheus ([example app](https://github.com/pavelmarkov/organizer))
+- Grafana ([example app](https://github.com/pavelmarkov/organizer))
 
 ### Frontend
 
